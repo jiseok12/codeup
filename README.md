@@ -1,3 +1,2 @@
 # codeup
-codeup 할수있다
-가자가자
+codeup c언어로 풀기
